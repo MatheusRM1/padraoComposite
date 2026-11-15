@@ -20,3 +20,4 @@ public class Arquivo extends Item {
     public String getConteudo() {
         return "Arquivo: " + this.getNome() + "." + this.extensao + "\n";
     }
+}
